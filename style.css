@@ -1,0 +1,55 @@
+
+.Head{
+     
+     
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subhead{
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.img
+{
+    height:500px;
+    width:1500px;
+    margin: 0px 20px 0px 20px;
+
+    
+    
+}
+a
+{
+ text-align: center;
+  
+  color: black;
+  font-style:oblique;
+  text-decoration-line: none;
+  display:contents;
+}
+
+.col
+{
+    margin-bottom: 20px;
+    
+}
+.container
+{
+    width:100px;
+}
+.home
+{
+    background-image: url(./images/home.jpg);
+    background-repeat:space;
+    background-size:cover;
+    
+    background-position: center;
+    height:500px;
+    color:rgb(36, 13, 13);
+}
+.icon
+{
+    margin-left: 500px;;
+}
